@@ -1,6 +1,6 @@
 import React from 'react'
 import './programs.css'
-import IGEN from '../../assets/igen232.mp4'
+import BAVIDEO from '../../assets/bavideo.mp4'
 
 const Programs = () => {
   return (
@@ -9,15 +9,12 @@ const Programs = () => {
       <div className='section'>
         <div className='top'>
                   <div className='video1'>
-                    <video src={IGEN} width="500" height="200" autoPlay muted loop controls="false" ></video>
+                    <video src={BAVIDEO} width="500" height="200" autoPlay muted loop controls="false" ></video>
                   </div>
 
         </div>
         <div className='bottom'>
-        <h4 className='program_heading'>Programs</h4>
-        <p className='program_paragraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis,
-           cumque accusantium iusto vero aut delectus consectetur itaque dolorum quae
-            iste nostrum quod, distinctio magnam! Nulla quod ullam cupiditate quasi nostrum.</p>
+        <p className='program_paragraph'>The BA English Department focuses on the study of English language, literature, and communication. It provides students with a deep understanding of literary works, critical thinking skills, and proficiency in both written and spoken English.</p>
           
         </div>
       </div>    

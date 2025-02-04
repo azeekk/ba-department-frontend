@@ -23,23 +23,23 @@ const Footer = () => {
               <img src={LocationLogo} alt="" />
               <h5 className='headerone'>visit us</h5>
               <h6 className='headertwo'>jamia nadawiyya</h6>
-              <h6 className='headerthree'>edavanna</h6>
+              <h6 className='headerthree'>Edavanna</h6>
 
           </li>
 
           <li className='phone'>
             <img src={PhoneLogo} alt="" />
             <h5 className='headerone'>call us</h5>
-            <h6 className='headertwo'>0000000000</h6>
-            <h6 className='headerthree'>0000000000</h6>
+            <h6 className='headertwo'>9744297753</h6>
+            <h6 className='headerthree'>9744297753</h6>
 
           </li>
 
           <li className='email'>
             <img src={MailLogo} alt="" />
             <h5 className='headerone'>Email us</h5>
-            <h6 className='headertwo'><a href="">example@gmail.com</a></h6>
-            <h6 className='headerthree'><a href="">example@gmail.com</a></h6>
+            <h6 className='headertwo'><a href="https://www.jnasc.org">https://www.jnasc.org</a></h6>
+            <h6 className='headerthree'><a href="https://www.jnasc.org">https://www.jnasc.org</a></h6>
             
           </li>
         </div>

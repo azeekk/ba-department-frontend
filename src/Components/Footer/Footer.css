@@ -112,4 +112,10 @@
   .headerthree {
     font-size: 12px;
   }
+
+  .quicksupport {
+    padding: 20px; /* Adjust padding for smaller screens */
+    margin-top: 120px;
+    color: white;
+  }
 }

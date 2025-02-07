@@ -1,6 +1,5 @@
 import React from 'react'
 import './Footer.css';
-import Nav from '../../Component/Nav'
 import Frame from '../../assets/Frame.png'
 import Frame2 from '../../assets/Frame2.png'
 import LocationLogo from '../../assets/location.png'
@@ -11,7 +10,6 @@ import MailLogo from '../../assets/mail.png'
 const Footer = () => {
   return (
     <div className='footer'>
-        <div className='header'> <Nav /></div>  
         <h1 className='thank'><img src={Frame2} alt="" />'Thank you for visiting us'<img src={Frame} alt="" /></h1>
         <div className='quicksupport'>
           <h4>Quick.Support</h4>
